@@ -26,6 +26,8 @@ will be update..
 
 ### 1. basics
 * [How to build](https://github.com/nawook96/go-tutorial/tree/master/src/1_basics/1_Build)
+* [Basic Syntax](https://github.com/nawook96/go-tutorial/tree/master/src/1_basics/2_Basic_Syntax)
+
 
 ### 2. advanced
 * 
@@ -66,3 +68,7 @@ And make pkg,bin,src folder.
 ---
 - Dongwook, Shin [@nawook96](https://github.com/nawook96)
 - Homepage : https://nawook96.github.io
+
+# Conference
+---
+http://pyrasis.com/go.html
