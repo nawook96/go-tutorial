@@ -33,6 +33,7 @@ will be update..
 * 
 
 # Getting Started
+---
 ## Linux
 ```bash
 $ wget https://storage.googleapis.com/golang/go<version>.linux-<architecture>.tar.gz
