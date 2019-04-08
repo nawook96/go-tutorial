@@ -1,0 +1,66 @@
+# Go
+---
+<p align="center"><img width="300" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/07/go.png" />
+
+`go-tutorial` provides tutorial how to use **Golang**. In the tutorial, There are basic syntax of **Golang**.
+
+# Why use go?
+---
+
+**Golang** is designed at **google** by Robert Griesemer, Rob Pike, and Ken Thompsom.
+
+**Golang** is programming language has been developed for fast performance, reliability, convenience, and easy.
+
+**Golang**'s feature :
+
+- Statically type
+- Compiled language
+- Garbage collection
+- Concurrency
+- Support multi-core environment
+- Fast compile
+
+# Table of Contents
+---
+will be update..
+
+### 1. basics
+* 
+
+### 2. advanced
+* 
+
+# Getting Started
+## Linux
+```bash
+$ wget https://storage.googleapis.com/golang/go<version>.linux-<architecture>.tar.gz
+$ tar vxzf go<version>.linux-<architecture>.tar.gz
+$ sudo mv go /usr/local/
+```
+And set environment variable
+```bash
+$ echo "export PATH=$PATH:/usr/local/go/bin" >> .bashrc
+$ sourch .bashrc
+```
+## Ubuntu
+```bash
+$ sudo apt-get update
+$ sudo apt-get install golang
+```
+## CentOS
+```bash
+$ sudo yum install golang
+```
+## Mac OS X
+You can download pkg file in [here](http://golang.org/dl).
+## Windows
+You can download install file in [here](http://golang.org/dl).
+And you set environment variable. (ex: C:\Go\bin)
+
+# Version
+---
+- Go 1.12.1
+
+# Author
+---
+- Dongwook, Shin @nawook96
