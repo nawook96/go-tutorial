@@ -30,6 +30,6 @@ func main() {
 	var x3, y3 int
 	var age6 int
 
-	x3, y3, age5 = 10, 20, 5 // x = 10, y = 20, age = 5: Parallel assignment
+	x4, y4, age6 = 10, 20, 5 // x = 10, y = 20, age = 5: Parallel assignment
 
 }
