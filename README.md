@@ -69,6 +69,6 @@ And make pkg,bin,src folder.
 - Dongwook, Shin [@nawook96](https://github.com/nawook96)
 - Homepage : https://nawook96.github.io
 
-# Conference
+# Reference
 ---
 http://pyrasis.com/go.html
