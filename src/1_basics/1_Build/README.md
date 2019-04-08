@@ -1,4 +1,4 @@
-# Create Go source file
+# How to build
 Make **hello.go** file like /GOPATH/src/hello.go
 
 ```GOPATH/src/hello.go

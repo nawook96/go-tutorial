@@ -25,7 +25,7 @@
 will be update..
 
 ### 1. basics
-* 
+* [How to build](https://github.com/nawook96/go-tutorial/tree/master/src/1_basics/1_Build)
 
 ### 2. advanced
 * 
