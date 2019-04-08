@@ -55,7 +55,8 @@ $ sudo yum install golang
 You can download pkg file in [here](http://golang.org/dl).
 ## Windows
 You can download install file in [here](http://golang.org/dl).
-And you set environment variable. (ex: C:\Go\bin)
+And you set environment variable. (ex: PATH=C:\Go\bin, GOPATH=C:\myGo\)
+And make pkg,bin,src folder.
 
 # Version
 ---
@@ -63,4 +64,5 @@ And you set environment variable. (ex: C:\Go\bin)
 
 # Author
 ---
-- Dongwook, Shin @nawook96
+- Dongwook, Shin [@nawook96](https://github.com/nawook96)
+- Homepage : https://nawook96.github.io
