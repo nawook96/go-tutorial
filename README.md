@@ -22,16 +22,37 @@
 
 # Table of Contents
 ---
-will be update..
 
 ### 1. basics
-* [How to build](https://github.com/nawook96/go-tutorial/tree/master/src/1_basics/1_Build)
-* [Basic Syntax](https://github.com/nawook96/go-tutorial/tree/master/src/1_basics/2_Basic_Syntax)
-* [Variable](https://github.com/nawook96/go-tutorial/tree/master/src/1_basics/3_Variable)
-
+- [X] [How to build](https://github.com/nawook96/go-tutorial/tree/master/src/1_basics/1_Build)
+- [X] [Basic Syntax](https://github.com/nawook96/go-tutorial/tree/master/src/1_basics/2_Basic_Syntax)
+- [X] [Variable](https://github.com/nawook96/go-tutorial/tree/master/src/1_basics/3_Variable)
+- [ ] Number Type
+- [ ] String
+- [ ] Boolean
+- [ ] Constant
+- [ ] Enumeration
+- [ ] Package
+- [ ] Conditional Statement
+- [ ] Loop Statement
+- [ ] Goto
+- [ ] Switch Statement
+- [ ] Function
+- [ ] Deffered Call
 
 ### 2. advanced
-* 
+- [ ] Array
+- [ ] Slice
+- [ ] Map
+- [ ] Closure
+- [ ] Panic, Recover
+- [ ] Pointer
+- [ ] Structure
+- [ ] Interface
+- [ ] Goroutine
+- [ ] Channel
+- [ ] Synchronization
+- [ ] Reflection
 
 # Getting Started
 ---
